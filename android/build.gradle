@@ -36,6 +36,6 @@ android {
 
 dependencies {
     implementation 'androidx.annotation:annotation:1.0.2'
-    implementation 'com.github.athenaslab:pictureselector'
+    implementation 'com.github.athenaslab:pictureselector:v1.0.0'
     implementation 'com.github.bumptech.glide:glide:4.11.0'
 }
